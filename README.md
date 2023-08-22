@@ -1,2 +1,4 @@
 # Spreadsheet-Filter
 This program was created while I was working for Lavner Education to filter the company's large spreadsheet used to hold all student and employee data in one place and create a new spreadhseet with just the names of students and their authorized pickups to be used by staff for check in and check out.
+
+For anyone trying to reproduce with your own spreadsheet, make sure the columns you want to filter are set by the number inside the code as columns are picked by their placement in the spreadsheet. I also deleted some information from the roster examples to keep students' names and other personal information off of this public repo. The authorized pickup would normally be populated with a list of the parents and other guardians who were allowed to pick the student up from the camp. 
